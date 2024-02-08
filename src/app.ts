@@ -37,3 +37,4 @@ console.log("isError", isError(new Error())); // true
 // test from github
 
 // test 4 from local
+// test 2 from github
