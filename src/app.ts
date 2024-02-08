@@ -34,3 +34,4 @@ console.log("equals", equals(10, 10)); // true
 console.log("isError", isError(new Error())); // true
 
 // test from local
+// test from github
