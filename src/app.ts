@@ -13,6 +13,10 @@ let age = 20
 let city = "New York"
 let isAuthenticated = true
 
-if (or(and(age === 20, city === "New York"), isAuthenticated)) {
-  console.log("it is here")
+if (and(age === 20, city === "New York")) {
+  console.log("it is here 1")
+}
+
+if (or(isAuthenticated, city === "New York")) {
+  console.log("it is here 2")
 }
