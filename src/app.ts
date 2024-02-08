@@ -35,3 +35,5 @@ console.log("isError", isError(new Error())); // true
 
 // test from local
 // test from github
+
+// test 2 from github
