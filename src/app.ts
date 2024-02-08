@@ -32,3 +32,5 @@ console.log("lesser", lesser(10, 5)); // false
 console.log("equals", equals(10, 10)); // true
 
 console.log("isError", isError(new Error())); // true
+
+// test from local
