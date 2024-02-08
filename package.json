@@ -2,9 +2,13 @@
   "name": "manojs",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "dist/app.js",
+  "type": "module",
   "scripts": {},
   "keywords": [],
   "author": "Gideão",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
 }
